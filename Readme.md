@@ -7,4 +7,7 @@ Saiba mais no link:
 
 
 
-Gostou do curso? Quer mais? Ajuyde com uma doacao.
+iGostou do curso? Quer mais? Ajuyde com uma doacao.
+
+
+Botao de doacao
